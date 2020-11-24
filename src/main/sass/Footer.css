@@ -1,0 +1,11 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    color: var(--text-color);
+    border: 1px solid var(--surface-d);
+    background-color: var(--surface-b);
+    border-radius: 3px;
+  }

@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@import './App.css';
+@import './Navbar.css';
+@import './Footer.css';
+
+@import 'primeflex/primeflex.css';
+@import 'primereact/resources/themes/arya-purple/theme.css';
+@import 'primereact/resources/primereact.min.css';
+@import 'primeicons/primeicons.css';
