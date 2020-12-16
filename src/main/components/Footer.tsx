@@ -4,7 +4,7 @@ function Footer(){
 
     return(
 
-        <div className="footer">
+        <div className="footer glass">
             IceScream primereact template - <a href="https://github.com/DorogiB">DorogiB</a> 2020 
         </div>
     );

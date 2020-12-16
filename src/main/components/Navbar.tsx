@@ -18,7 +18,7 @@ function Navbar(){
     const logo = () => <FontAwesomeIcon className="navbar-logo" icon={faIceCream}/> //<img className="navbar-logo p-mr-2" alt="Ice cream logo" src={iceCream} ></img>;
     return(
         <Menubar
-        
+        className="glass sleak-navbar"
         model={items}
         end={logo}
         />

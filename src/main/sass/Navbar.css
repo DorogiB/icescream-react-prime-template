@@ -1,8 +1,6 @@
-.sticky-navbar {
-    position: fixed;
-    top: 0;
-    width: 100%;
-    height: 5vh;
+.sleak-navbar {
+    top: 2%;
+    margin: 1%;
   }
 
 .navbar-logo {
